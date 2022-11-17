@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">whatsappCountry</string>
+    <string name="phone_number_hint" />
+    <string name="message_hint" />
+</resources>
