@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="search_item" type="id" />
+    <item name="upload_item" type="id" />
+    <item name="copy_item" type="id" />
+    <item name="print_item" type="id" />
+    <item name="share_item" type="id" />
+    <item name="bookmark_item" type="id" />
+</resources>
